@@ -1,3 +1,13 @@
+# AtlasBot — Product Landing Page
+
+**Portfolio status:** Product communication; align with validation baseline.
+
+Present AtlasBot as the personal and professional AI experience. The OpenMausBot-based Atlas-Bot repository is the candidate under validation. Do not present old OpenBot installers, upstream binaries or experimental features as official AtlasBot releases.
+
+> Existing engineering reference below is retained for provenance. The [AtlasHub institutional profile](https://github.com/AtlasHub-Si) defines current product scope.
+
+---
+
 # Atlas-SI Website V2.0
 
 Next.js 15 / React 19, PT/EN/FR/ES. Identidade Atlas, seis mascotes estáticas, demonstração de workflows e downloads oficiais protegidos por aprovação de release.
@@ -220,3 +230,7 @@ em modo normal e reduzido).
 
 `scripts/shot-atlas.mjs` (Playwright) captura as páginas chave para
 `scripts/shots-atlas/` contra `bunx next start -p 3200`.
+
+
+---
+[AtlasHub.SI](https://atlashub.si) · [Galaxy](https://github.com/AtlasHub-Si/AtlasHub-Command-Center) · London · Lisbon · Goiânia
